@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 250" role="img" aria-labelledby="title">
+  <title id="title">ООО Карьер ЛГС</title>
+  <defs>
+    <linearGradient id="blue" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#1687f5"/><stop offset="1" stop-color="#0350bd"/></linearGradient>
+  </defs>
+  <g transform="translate(20 22)">
+    <path d="M14 158V88l62-48v118m13 0V68l62-49v139m14 0V45l62-45v158" fill="url(#blue)" stroke="#031b42" stroke-width="8" stroke-linejoin="round"/>
+    <path d="M217 20l119 61v77H217z" fill="#06172d" stroke="url(#blue)" stroke-width="9" stroke-linejoin="round"/>
+    <path d="M238 51l77 40v57m-77-57v57m0-57l77 39m-39-60v97m-38-58l77 40m-38-59v97" fill="none" stroke="#1687f5" stroke-width="5"/>
+    <path d="M8 177c93-21 230-23 344 0" fill="none" stroke="url(#blue)" stroke-width="9" stroke-linecap="round"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" font-weight="800">
+    <text x="388" y="66" font-size="31" fill="#0875e8" letter-spacing="4">ООО</text>
+    <line x1="385" y1="84" x2="747" y2="84" stroke="#0c70d6" stroke-width="3"/>
+    <text x="385" y="144" font-size="52" fill="#ffffff" letter-spacing="1">КАРЬЕР<tspan dx="16" dy="-2" fill="#0875e8">ЛГС</tspan></text>
+    <line x1="385" y1="164" x2="747" y2="164" stroke="#0c70d6" stroke-width="3"/>
+    <text x="385" y="202" font-size="19" fill="#86bfff" letter-spacing="5">АНГАРЫ ПОД КЛЮЧ</text>
+  </g>
+</svg>

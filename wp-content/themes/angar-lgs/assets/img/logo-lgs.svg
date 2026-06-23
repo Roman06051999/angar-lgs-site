@@ -1,0 +1,20 @@
+<svg width="520" height="86" viewBox="0 0 520 86" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">&#1054;&#1054;&#1054; &#1050;&#1072;&#1088;&#1100;&#1077;&#1088; &#1051;&#1043;&#1057;</title>
+  <desc id="desc">&#1051;&#1086;&#1075;&#1086;&#1090;&#1080;&#1087; &#1054;&#1054;&#1054; &#1050;&#1072;&#1088;&#1100;&#1077;&#1088; &#1051;&#1043;&#1057; &#1076;&#1083;&#1103; &#1089;&#1072;&#1081;&#1090;&#1072; &#1072;&#1085;&#1075;&#1072;&#1088;&#1086;&#1074; &#1087;&#1086;&#1076; &#1082;&#1083;&#1102;&#1095;</desc>
+  <rect x="1" y="1" width="518" height="84" rx="0" fill="#060D18"/>
+  <path d="M0 84.5H520" stroke="#1F5B92" stroke-width="1.4" opacity="0.95"/>
+  <g transform="translate(14 18)">
+    <path d="M5 29L17 17H55L67 29V61H5V29Z" fill="#071827" stroke="#4A9EE0" stroke-width="3.6" stroke-linejoin="round"/>
+    <path d="M17 17L27 29H67" stroke="#7EC8FF" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" opacity="0.82"/>
+    <path d="M17 17V61" stroke="#7EC8FF" stroke-width="2.2" stroke-linecap="round" opacity="0.78"/>
+    <path d="M25 61V39H49V61" fill="#09111B" stroke="#DCEEFF" stroke-width="2.7" stroke-linejoin="round"/>
+    <path d="M37 61V39" stroke="#DCEEFF" stroke-width="1.9" stroke-linecap="round" opacity="0.92"/>
+    <path d="M8 68H64" stroke="#7EC8FF" stroke-width="2.4" stroke-linecap="round" opacity="0.95"/>
+  </g>
+  <g transform="translate(100 14)">
+    <text x="0" y="31" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="900" letter-spacing="1.1" fill="#4A9EE0">&#1054;&#1054;&#1054;</text>
+    <text x="90" y="31" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="900" fill="#FFFFFF">&#1050;&#1072;&#1088;&#1100;&#1077;&#1088;</text>
+    <text x="218" y="31" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="900" letter-spacing="2.4" fill="#4A9EE0">&#1051;&#1043;&#1057;</text>
+    <text x="2" y="60" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="900" letter-spacing="4.4" fill="#8FB6DC">&#1040;&#1053;&#1043;&#1040;&#1056;&#1067; &#1055;&#1054;&#1044; &#1050;&#1051;&#1070;&#1063;</text>
+  </g>
+</svg>
